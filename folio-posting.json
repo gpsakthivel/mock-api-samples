@@ -1,0 +1,11 @@
+{
+    "messages": [
+        {
+            "messageCode": "EN-001",
+            "messageText": "Enhancement added successfully.",
+            "messageType": "EHCEMT"
+        }
+    ],
+    "Success": true,
+    "ErrorMessage": ""
+}
